@@ -1,0 +1,21 @@
+body {
+    background: #222;
+    color: #eee;
+    font-family: monospace;
+    width: 100%;
+  
+  }
+  
+  #output {
+    width: 50%;
+    height: 140px;
+    word-wrap: inherit;
+
+  }
+  header, form, h3 {
+      text-align: center;
+  }
+  #textInput {
+    width: 50%;
+    height: 140px;
+  }
